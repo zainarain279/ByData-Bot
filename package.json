@@ -9,7 +9,7 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/airdropinsiders/ByData-Auto-Bot.git"
+      "url": "git+https://github.com/zainarain279/ByData-Bot.git"
     },
     "keywords": [
       "bydata",
@@ -18,12 +18,12 @@
       "automation",
       "bot"
     ],
-    "author": "Airdrop Insiders",
+    "author": "Zain Arain",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/airdropinsiders/ByData-Auto-Bot/issues"
+      "url": "https://github.com/zainarain279/ByData-Bot.git/issues"
     },
-    "homepage": "https://github.com/airdropinsiders/ByData-Auto-Bot#readme",
+    "homepage": "https://github.com/zainarain279/ByData-Bot.git#readme",
     "dependencies": {
       "axios": "^1.6.2",
       "https-proxy-agent": "^7.0.2",
